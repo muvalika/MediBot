@@ -1,0 +1,28 @@
+/* Custom CSS */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(45deg, #A8E6CF, #FFABAB, #FFC3A0, #FF677D, #D4A5A5);
+  }
+  
+  .faq-category h2 {
+    color: #007bff;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .faq-item .question {
+    cursor: pointer;
+  }
+  
+  .answer {
+    padding-left: 15px;
+    font-size: 0.95rem;
+    color: #555;
+  }
+  
+  .faq-item {
+    border-left: 3px solid #007bff;
+    padding-left: 10px;
+    margin-bottom: 10px;
+  }
+  
